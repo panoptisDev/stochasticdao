@@ -1,4 +1,5 @@
 **Our Dorahack buidl**: https://dorahacks.io/buidl/6488
+
 **Our Pitch + Testing demo video**: https://youtu.be/eFapH3GMcXQ
 
 Stochastic DAO specializes in the creation of fair and unmanipulated on-chain randomness, leveraging the security, decentralization, and transparency for the Nautilus dapps ecosystem.
